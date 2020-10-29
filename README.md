@@ -1,4 +1,4 @@
 # Anuradha
 
-#install
-$npm install @anuradha
+# install
+$ npm install @anuradha
